@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/docs/:path*",
+      "source": "/:path*",
       "destination": "https://velojs.gitbook.io/docs/:path*"
     }
   ]
